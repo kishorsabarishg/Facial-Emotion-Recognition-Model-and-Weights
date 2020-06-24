@@ -22,3 +22,5 @@ Download these files and read it(open it) and use it!
 The "CKPLUSFER.ipynb" is the code for training on the images
 
 The "Testing.ipynb" is for real-time video testing
+
+The "haarcascade_frontalface_default.xml" is used to detect the frontal face of a human. It is based on Cascade Classfier.
