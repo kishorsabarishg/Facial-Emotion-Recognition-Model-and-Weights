@@ -10,3 +10,11 @@ The labels are contained in the "lable_1.pickle" file.
 The model was trained for 50 epochs on Google Colab with images resized into 128pixels X 128pixels (original dimensions : 48pixels X 48pixels)
 
 The models validation accuracy is : 98.984%
+
+The file "Emotion_Model.json" consists of the trained Model. It contains the information about the network, ie., layers,layer size, activation, type of layer, etc.
+
+The file "Emotion_model_weights.h5" contains the weights for the trained model.
+
+The file "labels.pickle" contains the labels of the class.
+
+Download these files and read it(open it) and use it!
