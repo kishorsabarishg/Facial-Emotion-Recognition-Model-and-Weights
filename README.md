@@ -18,3 +18,7 @@ The file "Emotion_model_weights.h5" contains the weights for the trained model.
 The file "labels.pickle" contains the labels of the class.
 
 Download these files and read it(open it) and use it!
+
+The "CKPLUSFER.ipynb" is the code for training on the images
+
+The "Testing.ipynb" is for real-time video testing
