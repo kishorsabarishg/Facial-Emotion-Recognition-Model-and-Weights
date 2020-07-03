@@ -1,6 +1,6 @@
 # Facial-Emotion-Recognition-Model-and-Weights
 
-> The model is trained on the CK+45 dataset from https://www.kaggle.com/shawon10/ckplus which consists of 981 images.
+> The model is trained on the CK+48 dataset from https://www.kaggle.com/shawon10/ckplus which consists of 981 images.
 
 > There are seven classes of expression : Anger, Contempt, Disgust, Fear, Happy, Sadness and Surprise
 
